@@ -1,0 +1,21 @@
+.accept_term label {
+   display: block;
+   padding-right: 10px;
+   padding-left: 22px;
+   text-indent: -16px;
+ }
+ .accept_term input {
+   vertical-align: middle;
+ }
+ .accept_term label span{
+   vertical-align: middle;
+ }
+ .message{
+   font-size: 13px;
+ }
+ .form-margin{
+  margin: 40px 0 !important;
+ }
+ #mad-job-application-form .lable-title{
+  font-weight: 600 !important;
+ }
